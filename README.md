@@ -38,4 +38,12 @@ After the simulation finishes, we want to see the paths trodden by all the anima
 
 Example plot:
 
+Installation
+To run this simulation, Python 3 and Matplotlib are required.
+
+Install Python 3
+Download and install Python 3 from python.org if it is not installed yet.
+
+Install Matplotlib
+Use pip to install the required package:
 <img width="595" height="457" alt="image" src="https://github.com/user-attachments/assets/d349c783-2702-4902-98e6-0ff80bdb45d6" />
